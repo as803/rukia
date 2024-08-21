@@ -1,0 +1,331 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #005a87;
+}
+p{
+   padding-top: 10px;
+   text-align: justify;
+   text-indent: 20px;
+   font-size: 10px;
+   font-style: normal;
+   line-height: 2;
+   height: 100%;
+   width: 50%;
+}
+ul li :hover{
+    background-color: aliceblue;
+    background-size: cover;
+    
+}
+a{
+text-decoration: none;
+margin: 9px;
+list-style-type: none;
+display: inline-block;
+display: flex;
+transition-property: background;
+transition-duration: 3s;
+}
+ul li{
+    width: 200px;
+    list-style-type: none;
+    text-decoration: none;
+    background: gray;
+    font-size: 20px;
+    float: left;
+    border: 2px solid blue;
+    padding-left: -10px;
+    margin-left: -40px;
+    margin-top: -17px;
+    display: block;
+   
+}
+.subcont{
+    width: 90px;
+    background-color: rgb(124, 117, 117);
+}
+.refe{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.logo{                                               
+    width: 50px;
+    height: 50px;
+    padding-top: -20px;
+}
+.container{
+    width: 75%;
+    height: 100%;
+    background-color:aliceblue;
+align-items: center;
+justify-self: center;
+padding: 20px;
+    margin-top:-10px;
+    margin-left: 100px;
+}
+footer{
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 98px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.photo img{
+width: 500px;
+height:400px;
+background-color: #0d0e10;
+}
+.persian{
+    margin-right:20px;
+    padding-left: 90px;
+}
+.line{
+    height: 20px;
+    width: 100%;
+    margin: top -80px;
+    background-color: #7e93aa;
+    display: flex;
+    font-style: italic;
+
+}
+.category{
+    border: 2px;
+    background-color: #b3bdc8;
+    display: block;
+    margin: 30px;
+    margin-top: -30px;
+    padding: 30px;
+    width:300px;
+    float: right;
+border-top: 5px solid black;
+border-left: 10px solid black;
+margin-top: 20px;
+}
+.category a:hover{
+    background-color: #7e93aa;
+}
+.vipengele{
+    background-color: gray;
+}
+hr{
+    background-color: black;
+    font-weight: bold;
+
+
+}
+.first{
+    padding-top: 90px;
+    font-size: 20px;
+    color: #7e93aa;
+}
+.name{
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    padding-top: 250px;
+    font-style: italic;
+}
+.waya{
+    float: right;
+    font-size: 30px;
+    color:black;
+    padding-top: 10px;
+    font-style: normal;
+    margin-right: -185px;
+}
+.pag{
+    width:100%;
+background-color: #7e93aa;
+font-size: 8px;
+margin-left: -50px;
+}
+.br{
+    width: 55%;
+margin-top: -90px;
+    height: 10px;
+    margin-left: 45%;
+    
+}
+.simu{
+    width: 66%;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.full{
+    float: right;
+    padding-top: -50px;
+    font-size: 10px;
+    margin-bottom: 50%;
+
+}
+.lain{
+    width: 66%;
+    height: 5px;
+    background-color: #7e93aa;
+    margin-left:-60px;
+    margin-left: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.chake {
+    margin-right: -50px;
+}
+.mstari{
+    width: 100%;
+    height: 9px;
+    background-color: #7e93aa;
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.br{
+    float: left;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-left: 130px;
+}
+li{
+    font-size: 10px;
+    color: blue;
+}
+.navi{
+    background-color: aliceblue;
+    width: 350px;
+    height: 100%;
+    font-size: 11px;
+    padding: 20px;
+    margin-left: -50px;
+    margin-top: 50px ;
+    position: relative;
+    top: 50px;
+ 
+}
+ ul li:hover{
+    text-decoration: none;
+}
+ li:hover{
+    text-decoration:underline ;
+    cursor: pointer;
+
+ }
+ input{
+    margin: 20px;
+width: 200px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+}
+h2{
+    font-weight: none;
+    color: rgb(171, 176, 176)
+
+}
+.parali li{
+    color: black;
+    cursor:default;
+    line-height: 2;
+    transition-property: background;
+    transition-duration: 3s;
+    width: 50%;
+
+}
+.parali li:hover{
+    text-decoration: none;
+    
+}
+.line{
+    width: 100%;
+    height: 10px;
+}
+.pic img{
+    width: 200px;
+    height: 200px;
+    transition-duration: 6.0s;
+    margin-left: 90px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.moja{
+    width: 100px;
+    height: 100px;
+    background-color: #7e93aa;
+     border-radius: 40px;
+    border: 50%;
+    margin:10px;
+}
+.mbili{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+}
+.tatu{
+    margin-bottom: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(58, 88, 88);
+
+    margin: 10px;
+}
+.zengine{
+
+    background-color: #999b9f;
+}
+.mstaa{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    float: left 50px;
+margin-top: -5px;
+}
+.nambamoja{
+    width: 95%;
+   background-color: #7e93aa;
+    padding-top: -100px;
+    height: 2px;
+    margin-left: 10px;
+}
+.naa{
+    margin-left: 10px;
+}
+.ll2{
+    width: 50%;
+    padding-top: -100px;
+    margin-left: -9px;
+}
+.ll3{
+    width: 50%;
+    padding-top: -100px;
+    margin-left: -9px;
+}
+.yamwanzo{
+    width: 52%;
+    margin-left: -9px;
+}
+.lii{
+    margin-left: 10px;
+    font-weight: none;
+}
+.mwish{
+    height: 4px;
+    background-color: #7e93aa;
+    margin-left: 20px;
+}
+.hadi{
+  padding-top: 50px; 
+padding-bottom: 10px;
+padding-left: 50px;
+}
+.maji{
+    padding-top: -90px;
+    margin-left: 20px;
+}
